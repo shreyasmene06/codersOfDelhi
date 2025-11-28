@@ -1,0 +1,1 @@
+This is a kind of internship simulation in which I have been given a dataset of various people using social media and using only raw python skills, I need to load the data, then clean the data and finally find the useful insights from it as demanded by the head. 
